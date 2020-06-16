@@ -13,3 +13,6 @@ def divide(a, b):
 
 def ratio_a(a, b):
 	return a/(a+b)
+
+def square(a):
+	return a*a
